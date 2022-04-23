@@ -1,9 +1,9 @@
+
+
 ### Hi there 👋 I am Mahmud Hosen!Pleased to meet you!
 
-<!--
-**mahmud-hosen/mahmud-hosen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>I'm Mahmud Hosen. I'm a PHP Developer from Saver, Bangladesh. Currently, I'm working with PHP, Laravel, VueJS, MYSQL, Git, REST API, Google Classroom API, Data Structures & Algorithm. You can see more about me go to my portfolio. [http://mahmudhosen.me/](http://mahmudhosen.me/)
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+### Communicate -
