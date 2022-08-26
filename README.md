@@ -1,5 +1,5 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mahmud Hosen!</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mahmud Hosen.</h1>
 
 ## 🙋‍♂️ About Me
 -    I'm a PHP Developer.
@@ -59,7 +59,7 @@
  <hr>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/mahmud-hosen/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=mahmud-hosen">
 </a>
 <a href="https://github.com/mahmud-hosen?tab=followers"><img src="https://img.shields.io/github/followers/mahmud-hosen?label=Followers&style=social" alt="GitHub Badge"></a>
